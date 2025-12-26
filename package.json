@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@docusaurus/module-type-aliases": "^3.9.2",
+    "@docusaurus/types": "^3.9.2",
+    "@tsconfig/docusaurus": "^2.0.7",
+    "typescript": "^5.9.3"
+  }
+}
